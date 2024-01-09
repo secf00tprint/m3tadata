@@ -1,7 +1,16 @@
-# metadata
+# m3tadata+
+
 Tool to aggregate metadata information of PDF files
 
-You need `exiftool` installed in your system.
+## Preconditions
+
+Install requirements:
+
+```
+pip3 install -r requirements.txt
+```
+
+## Syntax 
 
 Copy all PDF files in one directory and run:
 
