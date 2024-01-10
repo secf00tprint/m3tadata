@@ -1,4 +1,6 @@
-# m3tadata+
+![python3][https://img.shields.io/badge/python-3]
+
+# m3tadata
 
 Tool to aggregate metadata information of PDF files
 
