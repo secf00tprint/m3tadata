@@ -8,7 +8,7 @@ Tool to aggregate metadata information of PDF files
 
 Install 
 
-- `exiftool`:p
+- `exiftool`
 
 Linux:
 ```
