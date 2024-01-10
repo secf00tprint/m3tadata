@@ -6,7 +6,20 @@ Tool to aggregate metadata information of PDF files
 
 ## Preconditions
 
-Install requirements:
+Install 
+
+- exiftool
+
+Linux:
+```
+sudo apt-get install libimage-exiftool-perl perl-doc 
+```
+Mac OS:
+```
+brew install exiftool
+```
+
+- python requirements:
 
 ```
 pip3 install -r requirements.txt
