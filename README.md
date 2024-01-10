@@ -8,7 +8,7 @@ Tool to aggregate metadata information of PDF files
 
 Install 
 
-- exiftool
+- `exiftool`:p
 
 Linux:
 ```
@@ -19,7 +19,7 @@ Mac OS:
 brew install exiftool
 ```
 
-- python requirements:
+- Python requirements:
 
 ```
 pip3 install -r requirements.txt
